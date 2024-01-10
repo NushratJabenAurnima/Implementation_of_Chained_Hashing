@@ -11,8 +11,6 @@ known as Closed Addressing and Closed Hashing or Open addressing. The given code
 **. Display The Hash Table**
 
 **. Delete Data From The Hash Tablee**
-  
-**. Deleting duplicate data**
 
 **. Search Data From The Hash Table**
 
