@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Project Done by &copy; Nushrat Jaben Aurnima. All Rights Reserved .</h2>
+</body>
+</html>
+
 #include<stdio.h>
 #include<stdlib.h>
 #define size 10
